@@ -2,3 +2,6 @@
 __pycache__/
 *.pyc
 Python基础
+dist
+node_modules
+.DS_Store

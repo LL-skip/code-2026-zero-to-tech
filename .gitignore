@@ -5,3 +5,5 @@ Python基础
 dist
 node_modules
 .DS_Store
+backend/*.db
+backend/_pycache_/
